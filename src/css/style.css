@@ -3,3 +3,21 @@
     margin: 0;
     padding: 0;
 }
+
+.container {
+    margin-top: 1rem;
+    padding: 1rem;
+    background: #333333;
+}
+
+.draggable {
+    margin: 1rem 0;
+    padding: 1rem;
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    cursor: move;
+}
+
+.draggable.dragging {
+    opacity: 0.5;
+}
