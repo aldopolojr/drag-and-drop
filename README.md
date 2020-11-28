@@ -17,4 +17,4 @@ This is a **training tutorial**, check here for the [demo](https://aldopolojr.gi
 [https://youtu.be/jfYWwQrtzzY](https://youtu.be/jfYWwQrtzzY)
 
 ## Tags
-#HTML #CSS #JavaScript 
+#HTML #CSS #JavaScript #drag&drop
