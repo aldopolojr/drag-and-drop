@@ -1,5 +1,12 @@
 # Sortable Drag & Drop With Vanilla Javascript
-This is a **training tutorial**, check here for the [demo](https://aldopolojr.github.io/drag-and-drop/)
+
+## links
+[demo link](https://aldopolojr.github.io/drag-and-drop/)
+
+[How To Build Sortable Drag & Drop With Vanilla Javascript](https://youtu.be/jfYWwQrtzzY)
+
+## Category
+training
 
 ## Notes
 - draggable="true"
@@ -12,9 +19,3 @@ This is a **training tutorial**, check here for the [demo](https://aldopolojr.gi
 - .reduce()
 - Element.getBoundingClientRect()
 - Number.NEGATIVE_INFINITY or Number.POSITIVE_INFINITY
-
-## Source
-[https://youtu.be/jfYWwQrtzzY](https://youtu.be/jfYWwQrtzzY)
-
-## Tags
-#HTML #CSS #JavaScript #drag&drop
